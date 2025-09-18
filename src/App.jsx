@@ -1,11 +1,12 @@
 import { Button } from "react-bootstrap";
 //import "./App.css";
 import MyForm from "./FormValidation";
+import LearnReducerHook from "./UseReducerHook";
 
 function App() {
   return (
     <div>
-      <MyForm/>
+      <LearnReducerHook/>
     </div>
   );
 }
