@@ -28,7 +28,7 @@ function Clock() {
         <option value={"pink"}>Pink</option>
       </select>
       <div style={{backgroundColor:"black", color:clockcolor}}>
-        <h1>{Time}</h1>
+        <h1 style={{padding:'10px'}}>{Time}</h1>
       </div>
     </div>
   );
