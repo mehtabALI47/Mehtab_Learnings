@@ -1,11 +1,11 @@
 import { Button } from "react-bootstrap";
 //import "./App.css";
-import LearnLazyLoading from "./LazyLoading";
+import LearnUseApi from "./UseApi";
 
 function App() {
   return (
     <div>
-      <LearnLazyLoading/>
+      <LearnUseApi/>
     </div>
   );
 }
